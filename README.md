@@ -1,7 +1,7 @@
 # railway-hermes-backup
 
-Latest backup: 2026-07-28T00-06-47Z
-Size: 34450122 bytes
+Latest backup: 2026-07-28T12-00-50Z
+Size: 33893650 bytes
 
 Backups are created every 12 hours via automated Hermes cron job.
 
@@ -14,3 +14,4 @@ Backups are created every 12 hours via automated Hermes cron job.
 - `hermes-backup-2026-07-27T00-17-50Z.tar.gz` (33845080 bytes)
 - `hermes-backup-2026-07-27T12-07-49Z.tar.gz` (34627854 bytes)
 - `hermes-backup-2026-07-28T00-06-47Z.tar.gz` (34450122 bytes)
+- `hermes-backup-2026-07-28T12-00-50Z.tar.gz` (33893650 bytes)
